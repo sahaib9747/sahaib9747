@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Md. Sahaib Mridha</h1>
 <!-- <h3 align="center">A passionate frontend developer from Bangladesh</h3> -->
-
+<!-- visitors-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahaib9747&label=Profile%20views&color=0e75b6&style=flat" alt="sahaib9747" /> </p> -->
-
+<!-- trophy -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahaib9747" alt="sahaib9747" /></a> </p> -->
 
-- 🌱 I’m currently learning **Django**
+<!-- - 🌱 I’m currently learning **Django** -->
 
 <!-- - 👨‍💻 All of my projects are available at [https://rabeen-portfolio.netlify.app/](https://rabeen-portfolio.netlify.app/) -->
 
-- 💬 Ask me about **python**
+<!-- - 💬 Ask me about **python**
 
-- 📫 How to reach me **pro.sahaib9747@gmail.com**
+- 📫 How to reach me **pro.sahaib9747@gmail.com** -->
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/140tN0TTAbMx2NSnMo8-JElVWfy88TgVh/view?usp=sharing](https://drive.google.com/file/d/140tN0TTAbMx2NSnMo8-JElVWfy88TgVh/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zaman-671-static/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zaman-671-static/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahaib9747/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahaib9747/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/rihankhan9747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rihankhan9747" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/zaman_rabeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/sahaib9747/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sahaib9747" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/sahaib9747" height="30" width="40" /></a>
 </p>
 
